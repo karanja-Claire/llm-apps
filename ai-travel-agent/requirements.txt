@@ -1,0 +1,5 @@
+streamlit
+mem0ai
+qdrant-client
+ollama
+openai
